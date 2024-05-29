@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gpt4-djc/static/css/main.54755670.css",
+    "main.js": "/gpt4-djc/static/js/main.5bf23ce2.js",
+    "static/media/ai.png": "/gpt4-djc/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/gpt4-djc/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/gpt4-djc/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/gpt4-djc/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/gpt4-djc/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/gpt4-djc/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/gpt4-djc/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/gpt4-djc/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/gpt4-djc/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "index.html": "/gpt4-djc/index.html",
+    "main.54755670.css.map": "/gpt4-djc/static/css/main.54755670.css.map",
+    "main.5bf23ce2.js.map": "/gpt4-djc/static/js/main.5bf23ce2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54755670.css",
+    "static/js/main.5bf23ce2.js"
+  ]
+}
